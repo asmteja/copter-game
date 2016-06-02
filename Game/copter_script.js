@@ -44,7 +44,7 @@ ctx.fillText(score,790,25);
 if(!acx2){
   ctx.font = "50px comic sans ms";
   ctx.fillStyle="#FF0000";
-  ctx.fillText("He's  dead JIM!",210,240);
+  ctx.fillText("Game over",210,240);
   ctx.font = "30px comic sans ms";
   ctx.fillText("SCORE:",680,25);
   ctx.fillText(score,790,25);
